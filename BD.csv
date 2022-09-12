@@ -1,0 +1,17 @@
+Categoria,Etiqueta,FechaCreacion,Valor
+alimentos,Primer Mercado,31-Jul-22,140000
+alimentos,Segundo Mercado,7-Aug-22,150000
+alimentos,Tercer Mercado,14-Aug-22,160000
+alimentos,Cuarto Mercado,21-Aug-22,150000
+transporte,Tanqueada 1,13-Aug-22,90000
+transporte,Tanqueada 2,27-Aug-22,87000
+transporte,Taxi,20-Aug-22,5000
+regalos,Regalo mama,31-Jul-22,700000
+viajes,Viaje a cumaral,13-Aug-22,250000
+viajes,Viaje a trinidad,27-Aug-22,120000
+recibos,Recibo de luz,3-Aug-22,106000
+recibos,Recibo de agua,3-Aug-22,80000
+recibos,Recibo de gas,3-Aug-22,70000
+recibos,Recibo de directv,4-Aug-22,150000
+medicamento,Primer Compra en drogueria,12-Aug-22,23000
+medicamento,Segunda Compra en drogueria,22-Aug-22,8000
